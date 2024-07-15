@@ -1,0 +1,34 @@
+{
+    "name": "Dr. Emily Davis",
+    "speciality": "Gynecology",
+    "city": "Faridabad",
+    "phoneNumber": "9876543201",
+    "email": "emily.davis@example.com"
+}
+
+
+{
+    "name": "Dr. Michael Brown",
+    "speciality": "ENT",
+    "city": "Delhi",
+    "phoneNumber": "9876543202",
+    "email": "michael.brown@example.com"
+}
+
+
+{
+    "name": "Dr. Jessica Wilson",
+    "speciality": "Orthopaedic",
+    "city": "Noida",
+    "phoneNumber": "9876543203",
+    "email": "jessica.wilson@example.com"
+}
+
+
+{
+    "name": "Dr. Daniel Lee",
+    "speciality": "Dermatology",
+    "city": "Faridabad",
+    "phoneNumber": "9876543204",
+    "email": "daniel.lee@example.com"
+}

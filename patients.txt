@@ -1,0 +1,34 @@
+{
+    "name": "Alice Johnson",
+    "symptom": "Arthritis",
+    "city": "Delhi",
+    "phoneNumber": "1234567801",
+    "email": "alice.johnson@example.com"
+}
+
+
+{
+    "name": "Robert Martinez",
+    "symptom": "Skin infection",
+    "city": "Faridabad",
+    "phoneNumber": "1234567802",
+    "email": "robert.martinez@example.com"
+}
+
+
+{
+    "name": "Emma Garcia",
+    "symptom": "Ear pain",
+    "city": "Noida",
+    "phoneNumber": "1234567803",
+    "email": "emma.garcia@example.com"
+}
+
+
+{
+    "name": "William Rodriguez",
+    "symptom": "Dysmenorrhea",
+    "city": "Delhi",
+    "phoneNumber": "1234567804",
+    "email": "william.rodriguez@example.com"
+}
