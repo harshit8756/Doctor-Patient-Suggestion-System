@@ -10,6 +10,7 @@ The Doctor-Patient Suggestion System consists of the following features:
 -> Handle edge cases where no doctors are available for a particular symptom or location.
 
 # TECHNOLOGY USED
+
 -> Spring Boot 3.x
 -> Hibernate (JPA)
 -> H2 Database
