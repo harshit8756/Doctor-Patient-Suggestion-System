@@ -16,7 +16,7 @@ The Doctor-Patient Suggestion System consists of the following features:
 -> H2 Database
 -> Postman (for testing APIs)
 
-#SCREENSHOTS
+# SCREENSHOTS
 
 ![Screenshot (11)](https://github.com/harshit8756/Java_Assignment_Project/assets/113333121/dafd6175-f984-4c08-a512-8887a3f68ff2)
 ![Screenshot (14)](https://github.com/harshit8756/Java_Assignment_Project/assets/113333121/d4f96f85-8626-4f1b-8496-b6af9d242c58)
